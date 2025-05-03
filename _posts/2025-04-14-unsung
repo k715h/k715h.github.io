@@ -1,0 +1,12 @@
+---
+layout: post
+title: 250414 언성듀엣/전자세계의 데들리 생방송
+subtitle: 
+permalink: /open_testlog/
+---
+
+GM/시프터: 키앙
+PL/바인더: 당꼬
+
+
+{% include_relative testlog.html %}
